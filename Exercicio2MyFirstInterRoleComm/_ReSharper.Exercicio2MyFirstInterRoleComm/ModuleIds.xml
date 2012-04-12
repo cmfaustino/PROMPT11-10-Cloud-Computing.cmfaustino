@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="50C38F24-4BB4-4B9D-AF9E-C191ED27C97F" ModuleId="WebRole1" />
+  <Module PersistentId="EFF8B17F-64FE-4BD9-BE7F-583F63ADF799" ModuleId="WorkerRole1" />
+</Modules>

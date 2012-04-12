@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RoleModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="WorkerRole1" version="1.6.21103.1459" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <Startup>
+    <Task commandLine="DiagnosticsAgent.exe" taskType="background" relativePath="plugins\Diagnostics">
+      <Environment>
+        <Variable name="RdModuleName" value="Diagnostics" />
+        <Variable name="WaRoleType" value="WorkerRole" />
+      </Environment>
+    </Task>
+    <Task commandLine="DiagnosticsAgent.exe /blockStartup" relativePath="plugins\Diagnostics">
+      <Environment>
+        <Variable name="RdModuleName" value="Diagnostics" />
+        <Variable name="WaRoleType" value="WorkerRole" />
+      </Environment>
+    </Task>
+  </Startup>
+  <Runtime>
+    <EntryPoint>
+      <NetFxEntryPoint assemblyName="WorkerRole1.dll" />
+    </EntryPoint>
+  </Runtime>
+  <ConfigurationSettings>
+    <Setting name="ConnectionString" nameSpace="Microsoft.WindowsAzure.Plugins.Diagnostics" />
+  </ConfigurationSettings>
+  <Properties>
+    <Property name="RoleType" value="Worker" />
+    <Property name="RoleName" value="WorkerRole1" />
+    <Property name="ProjectName" value="WorkerRole1" />
+    <Property name="Configuration" value="Debug" />
+    <Property name="Platform" value="AnyCPU" />
+    <Property name="SourceDir" value="" />
+    <Property name="SitePhysicalPath" value="" />
+    <Property name="OutputDir" value="C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\Exercicio2MyFirstInterRoleComm\Exercicio2MyFirstInterRoleComm\obj\Debug\WorkerRole1\" />
+    <Property name="EntryPoint" value="WorkerRole1.dll" />
+    <Property name="RoleTargetFramework" value="v4.0" />
+    <Property name="OriginalItemSpec" value="C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\Exercicio2MyFirstInterRoleComm\Exercicio2MyFirstInterRoleComm\Exercicio2MyFirstInterRoleComm.ccproj" />
+    <Property name="MSBuildSourceProjectFile" value="C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\Exercicio2MyFirstInterRoleComm\Exercicio2MyFirstInterRoleComm\Exercicio2MyFirstInterRoleComm.ccproj" />
+    <Property name="MSBuildSourceTargetName" value="ResolveSingleWorkerRoleReference" />
+    <Property name="TargetFrameworkVersion" value="v4.0" />
+    <Property name="TargetRuntimeVersion" value="v4.0" />
+  </Properties>
+</RoleModel>

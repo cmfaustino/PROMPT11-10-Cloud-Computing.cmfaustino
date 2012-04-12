@@ -4,4 +4,6 @@
 
 ...Texto...
 
+Repositorio oficial do modulo: <https://github.com/CCISEL/Cloud-Computing>
+
 (Fim do ficheiro .md)

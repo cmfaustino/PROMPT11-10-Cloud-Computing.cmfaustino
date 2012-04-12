@@ -1,0 +1,8 @@
+﻿Guiao - 1:
+
+Passo 11 - configurar aplicacao para usar servicos do storage account
+--> Propriedades no Role - separador Configuration - seccao Diagnostics
+	utilizar key de storage account
+
+Passo 12 - publicar aplicacao pelo Visual Studio e importar as credenciais
+--> menu Build - opcao Publish to Windows Azure

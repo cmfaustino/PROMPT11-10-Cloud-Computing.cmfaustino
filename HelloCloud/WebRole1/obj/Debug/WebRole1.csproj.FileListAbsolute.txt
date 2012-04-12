@@ -1,0 +1,10 @@
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\HelloCloud\WebRole1\bin\WebRole1.dll
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\HelloCloud\WebRole1\bin\WebRole1.pdb
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\HelloCloud\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\HelloCloud\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\HelloCloud\WebRole1\bin\System.Web.Providers.dll
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\HelloCloud\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\HelloCloud\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\HelloCloud\WebRole1\obj\Debug\ResolveAssemblyReference.cache
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\HelloCloud\WebRole1\obj\Debug\WebRole1.dll
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\HelloCloud\WebRole1\obj\Debug\WebRole1.pdb
