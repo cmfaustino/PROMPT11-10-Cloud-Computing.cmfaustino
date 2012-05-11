@@ -1,0 +1,13 @@
+C:\Dev\AzureBook\StorageSampleREST\StorageSampleREST\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\AzureBook\StorageSampleREST\StorageSampleREST\bin\Debug\StorageSampleREST.exe
+C:\Dev\AzureBook\StorageSampleREST\StorageSampleREST\bin\Debug\StorageSampleREST.pdb
+C:\Dev\AzureBook\StorageSampleREST\StorageSampleREST\obj\x86\Debug\StorageSampleREST.exe
+C:\Dev\AzureBook\StorageSampleREST\StorageSampleREST\obj\x86\Debug\StorageSampleREST.pdb
+C:\Dev\AzureBook\StorageSampleREST\StorageSampleREST\bin\Debug\StorageSampleREST.exe.config
+C:\AzureDemos\StorageSampleREST\StorageSampleREST\bin\Debug\StorageSampleREST.exe.config
+C:\AzureDemos\StorageSampleREST\StorageSampleREST\obj\x86\Debug\StorageSampleREST.exe
+C:\AzureDemos\StorageSampleREST\StorageSampleREST\obj\x86\Debug\StorageSampleREST.pdb
+C:\AzureDemos\StorageSampleREST\StorageSampleREST\bin\Debug\StorageSampleREST.exe
+C:\AzureDemos\StorageSampleREST\StorageSampleREST\bin\Debug\StorageSampleREST.pdb
+C:\AzureDemos\StorageSampleREST\StorageSampleREST\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\AzureDemos\Storage_REST\StorageSampleREST\bin\Debug\StorageSampleREST.exe.config

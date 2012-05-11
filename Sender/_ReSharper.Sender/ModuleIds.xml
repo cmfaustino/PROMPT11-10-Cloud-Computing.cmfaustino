@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="342E59C4-F2F6-4311-8E98-2ACCEF7412B3" ModuleId="Sender" />
+  <Module PersistentId="C7952121-1699-4569-88E1-15DD5A32D4BD" ModuleId="Receiver" />
+</Modules>

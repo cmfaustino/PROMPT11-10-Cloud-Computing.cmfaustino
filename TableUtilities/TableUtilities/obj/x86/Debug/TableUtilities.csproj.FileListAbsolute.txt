@@ -1,0 +1,8 @@
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\TableUtilities\TableUtilities\bin\Debug\TableUtilities.exe.config
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\TableUtilities\TableUtilities\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\TableUtilities\TableUtilities\bin\Debug\TableUtilities.exe
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\TableUtilities\TableUtilities\bin\Debug\TableUtilities.pdb
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\TableUtilities\TableUtilities\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\TableUtilities\TableUtilities\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\TableUtilities\TableUtilities\obj\x86\Debug\TableUtilities.exe
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\TableUtilities\TableUtilities\obj\x86\Debug\TableUtilities.pdb

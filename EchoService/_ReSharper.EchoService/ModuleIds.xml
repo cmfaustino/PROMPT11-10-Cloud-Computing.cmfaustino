@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="AC0635DA-593C-487C-9CCF-0DAAD57DF474" ModuleId="EchoService" />
+  <Module PersistentId="644E27CF-BB80-43EF-B28E-FE39D5EFAB67" ModuleId="EchoClient" />
+  <Module PersistentId="9ACAD071-98F4-4E4D-9865-1BBFA47345B8" ModuleId="Sender" />
+</Modules>

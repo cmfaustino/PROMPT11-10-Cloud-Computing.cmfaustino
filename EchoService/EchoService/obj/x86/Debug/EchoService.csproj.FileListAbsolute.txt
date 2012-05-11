@@ -1,0 +1,8 @@
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\EchoService\EchoService\bin\Debug\EchoService.exe.config
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\EchoService\EchoService\bin\Debug\EchoService.exe
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\EchoService\EchoService\bin\Debug\EchoService.pdb
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\EchoService\EchoService\bin\Debug\Microsoft.ServiceBus.dll
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\EchoService\EchoService\bin\Debug\Microsoft.ServiceBus.xml
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\EchoService\EchoService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\EchoService\EchoService\obj\x86\Debug\EchoService.exe
+C:\z_PROMPT\PROMPT\uc10\repos\PROMPT11-10-Cloud-Computing.cmfaustino\EchoService\EchoService\obj\x86\Debug\EchoService.pdb
